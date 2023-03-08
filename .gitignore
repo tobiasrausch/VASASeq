@@ -1,0 +1,5 @@
+.conda
+.mamba
+.tools
+conda/
+*~
